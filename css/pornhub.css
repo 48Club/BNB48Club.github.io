@@ -32,7 +32,7 @@ body {
 }
 .hub span:nth-child(1) {
   color: #FFFFFF;
-  border-radius: 1vw;
+  border-radius: 2vw;
   /*padding: 0 1vw 1vw 1vw;*/
   display: inline-block;
 }
