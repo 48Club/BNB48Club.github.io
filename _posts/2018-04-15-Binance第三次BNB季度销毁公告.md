@@ -6,7 +6,7 @@ tags:
   - 币安新闻
   - BNB销毁
 gallery:
-  - image_path: 3rd-burn.jpg
+  - image_path: assets/images/3rd-burn.jpg
     alt: "Binance第三次BNB季度销毁公告"
 ---
 
