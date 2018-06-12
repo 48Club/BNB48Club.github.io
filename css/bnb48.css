@@ -29,7 +29,7 @@ body {
 }
 
 .hub span:nth-child(2) {
-  background: #FF9900;
+  background: rgb(243,186,46);
   color: #000000;
   border-radius: 1vw;
   padding: 0 1vw 0vw 1vw;
