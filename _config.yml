@@ -276,7 +276,7 @@ whitelist:
 analytics:
   provider               : "google" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : UA-92188034-1
+    tracking_id          : UA-90028529-6
 
 # Archives
 #  Type
