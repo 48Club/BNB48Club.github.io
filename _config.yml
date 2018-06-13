@@ -49,7 +49,7 @@ atom_feed:
 
 search                   : true # true, false (default)
 search_full_content      : true # true, false (default)
-search_provider          : algolia # lunr (default), algolia
+search_provider          : lunr # lunr (default), algolia
 algolia:
   application_id         : QB6HVGBSBA # YOUR_APPLICATION_ID
   index_name             : minimal_mistakes # YOUR_INDEX_NAME
@@ -65,7 +65,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter ""
+  username               : &twitter "BNB48Club"
 weibo:
   username               : &weibo ""
 facebook:
@@ -95,7 +95,7 @@ author:
   flickr           : 
   facebook         : 
   foursquare       :
-  github           : ""
+  github           : "BNB48Club"
   google_plus      : ""
   keybase          :
   instagram        :
@@ -106,11 +106,12 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : ""
+  twitter          : "BNB48Club"
   vine             :
   weibo            : ""
   xing             :
   youtube          :
+  telegram         : "SirIanM"
 
 
 # Reading Files
