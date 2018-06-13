@@ -6,11 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-ZH"
-title                    : "BNB48 Club"
+locale                   : "en-US"
+title                    : "BNB48 Club®"
 title_separator          : "-"
-name                     : &name "BNB48 Club"
-description              : &description "币安币爱好者俱乐部"
+name                     : &name "BNB48 Club®"
+description              : &description "1BNB=48BTC"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : ""
@@ -277,7 +277,7 @@ whitelist:
 analytics:
   provider               : "google" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : UA-90028529-6
+    tracking_id          : UA-7775862-7
 
 # Archives
 #  Type
