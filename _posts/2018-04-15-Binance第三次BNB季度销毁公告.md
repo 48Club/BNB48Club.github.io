@@ -4,7 +4,6 @@ date:   2018-04-15 9:12:18 +0800
 excerpt:	"根据Binance白皮书约定，Binance第三次BNB季度销毁 2,220,314 BNB（价值约3000万美元）"
 tags:
   - 币安新闻
-  - BNB销毁
 gallery:
   - image_path: assets/images/3rd-burn.jpg
     alt: "Binance第三次BNB季度销毁公告"
