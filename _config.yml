@@ -65,9 +65,9 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter "SirIan_M"
+  username               : #&twitter "SirIan_M"
 weibo:
-  username               : &weibo "SirIanM"
+  username               : #&weibo "SirIanM"
 facebook:
   username               :
   app_id                 :
@@ -87,7 +87,7 @@ author:
   avatar           :  #"bio-photo.jpg"
   bio              : "1 BNB = 48 BTC"
   location         : 
-  email            : "apply@bnb48.club"
+  email            : "web@bnb48.club"
   uri              : 
   bitbucket        :
   codepen          :
@@ -106,9 +106,9 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "SirIan_M"
+  twitter          : #"SirIan_M"
   vine             :
-  weibo            : "SirIanM"
+  weibo            : #"SirIanM"
   xing             :
   youtube          :
   telegram         : "BNB48_bot"
