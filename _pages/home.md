@@ -7,7 +7,7 @@ header:
   overlay_image: assets/images/unsplash-gallery-image-4.jpg
   cta_label: "购买 BNB"
   cta_url: "https://www.binance.com/trade.html?symbol=BNB_BTC"
-excerpt: "一群喜爱 BNB 的人走到了一起，就有了BNB48 Club<br />手里有币，心里不慌"
+excerpt: "1 BNB = 48 BTC"
 feature_row:
   - image_path: assets/images/invite-activity.jpg
     alt: "持仓BNB 500个，做 Binance 老板"
@@ -36,4 +36,4 @@ intro:
 
 {% include market.html %}
 
-{% include feature_row %}
+<!-- {% include feature_row %} -->
