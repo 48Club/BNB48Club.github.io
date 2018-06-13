@@ -204,10 +204,14 @@ body:hover .visually-hidden button {
     color: $dribbble-color;
   }
 
-  .fa-facebook,
-  .fa-facebook-square,
-  .fa-facebook-f {
+  .fa-facebook {
     color: $facebook-color;
+  }
+
+  .fa-telegram,
+  .fa-telegram-square,
+  .fa-telegram-f {
+    color: $telegram-color;
   }
 
   .fa-flickr {
