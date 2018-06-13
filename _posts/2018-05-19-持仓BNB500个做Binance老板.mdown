@@ -5,7 +5,8 @@ excerpt:	"活动期间持有BNB＜500返佣20%，持有BNB≥500返佣40%。"
 gallery:
   - image_path: assets/images/invite-activity.jpg
     alt: "Banner"
-
+tags:
+  - 币安新闻
 ---
 
 {% include gallery caption="持仓BNB 500个，做 Binance 老板" %}

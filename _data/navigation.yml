@@ -11,7 +11,4 @@ main:
 
   - title: "会员"
     url: /membership/
-    
-  - title: "周边"
-    url: /year-archive/
 

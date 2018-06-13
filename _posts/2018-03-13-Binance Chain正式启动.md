@@ -8,7 +8,6 @@ header:
   image: "django.png"
 tags:
   - 币安新闻
-  - Binance Chain
 ---
 
 亲爱的用户：
