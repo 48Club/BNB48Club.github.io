@@ -1,0 +1,105 @@
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script type="text/javascript">
+$("#market").hide();
+$(document).ready(function() {
+  $.getJSON("https://api.coinmarketcap.com/v2/ticker/1839/?convert=BTC", function(result) {
+    var quotes = result.data.quotes;
+    var rank = result.data.rank;
+    var USD = quotes.USD;
+    var BTC = quotes.BTC;
+    var percent = USD.percent_change_24h;
+    console.log(USD.price + ' ' + percent);
+
+    $("#price_usd").html('$' + USD.price.toFixed(2));
+    $("#price_percent").html('(' + percent + '%)');
+    if (percent > 0) {
+      $("#price_percent").css("color", "green");
+    } else {
+      $("#price_percent").css("color", "red");
+    }
+
+    $("#price-btc").html(BTC.price.toFixed(8) + ' BTC');
+    $("#rank").html(rank);
+
+    var number = USD.market_cap;
+    number /= 1000000000;
+    $("#cap").html('$' + number.toFixed(3) + ' B');
+
+    var number = USD.volume_24h;
+    number /= 1000000;
+    $("#volume").html('$' + number.toFixed(3) + ' M');
+
+    $("#market").show();
+  });
+});
+</script>
+<style type="text/css">
+#market {
+  margin-top: 20px;
+  padding-bottom: 32px;
+  width: 560px;
+}
+
+.row {
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+}
+
+#col-header {
+  float: left;
+  align-items: stretch;
+}
+
+#col-other {
+  float: left;
+  text-align: center;
+  align-items: stretch;
+  margin: auto;
+}
+
+#price-btc {
+  font-size: 0.8em;
+  color: gray;
+}
+
+.label {
+  font-size: .8em;
+}
+
+.content {
+  font-weight: bold;
+}
+</style>
+<div class="feature__wrapper container" id="market">
+  <div class="row">
+    <div class="col" id="col-header">
+      <div>
+        <span id="price_usd" class="content"></span> <span id="price_percent"></span>
+        <br />
+        <span id="price-btc"></span>
+      </div>
+    </div>
+    <div class="col" id="col-other">
+      <div>
+        <span class="label">Rank</span>
+        <br />
+        <span id="rank" class="content"></span>
+      </div>
+    </div>
+    <div class="col" id="col-other">
+      <div>
+        <span class="label">Market cap</span>
+        <br />
+        <span id="cap" class="content"></span>
+      </div>
+    </div>
+    <div class="col" id="col-other">
+      <div>
+        <span class="label">Volume(24H)</span>
+        <br />
+        <span id="volume" class="content"></span>
+      </div>
+    </div>
+  </div>
+</div>

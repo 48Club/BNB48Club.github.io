@@ -7,7 +7,6 @@ header:
   overlay_image: assets/images/unsplash-gallery-image-4.jpg
   cta_label: "购买 BNB"
   cta_url: "https://www.binance.com/trade.html?symbol=BNB_BTC"
-  caption: ""
 excerpt: "一群喜爱 BNB 的人走到了一起，就有了BNB48 Club<br />手里有币，心里不慌"
 feature_row:
   - image_path: assets/images/invite-activity.jpg
@@ -28,9 +27,13 @@ feature_row:
     excerpt: "根据Binance白皮书约定，Binance第三次BNB季度销毁 2,220,314 BNB（价值约3000万美元）。"
     url: "/Binance%E7%AC%AC%E4%B8%89%E6%AC%A1BNB%E5%AD%A3%E5%BA%A6%E9%94%80%E6%AF%81%E5%85%AC%E5%91%8A/"
     btn_class: "btn--inverse"
+intro:
+  - excerpt: 'Get notified when I add new stuff &nbsp; [<i class="fab fa-twitter"></i> @mmistakes](https://twitter.com/mmistakes){: .btn .btn--twitter} [<i class="fab fa-paypal"></i> Tip Me](https://www.paypal.me/mmistakes){: .btn .btn--primary}'
 
 ---
 
-<!--{% include feature_row id="intro" type="center" %}-->
+<!-- {% include feature_row id="intro" type="center" %} -->
+
+{% include market.html %}
 
 {% include feature_row %}
