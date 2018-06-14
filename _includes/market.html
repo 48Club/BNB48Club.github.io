@@ -23,11 +23,11 @@ $(document).ready(function() {
 
     var number = USD.market_cap;
     number /= 1000000000;
-    $("#cap").html('$' + number.toFixed(3) + ' B');
+    $("#cap").html('$' + number.toFixed(2) + ' B');
 
     var number = USD.volume_24h;
     number /= 1000000;
-    $("#volume").html('$' + number.toFixed(3) + ' M');
+    $("#volume").html('$' + number.toFixed(2) + ' M');
 
     $("#market").show();
   });
@@ -37,7 +37,8 @@ $(document).ready(function() {
 #market {
   margin-top: 20px;
   padding-bottom: 32px;
-  width: 560px;
+  width: 100%;
+  max-width: 750px;
 }
 
 .row {
@@ -68,8 +69,10 @@ $(document).ready(function() {
 }
 
 .content {
+  font-size: .8em;
   font-weight: bold;
 }
+
 </style>
 <div class="feature__wrapper container" id="market">
   <div class="row">
@@ -89,14 +92,14 @@ $(document).ready(function() {
     </div>
     <div class="col" id="col-other">
       <div>
-        <span class="label">Market cap</span>
+        <span class="label">Cap</span>
         <br />
         <span id="cap" class="content"></span>
       </div>
     </div>
     <div class="col" id="col-other">
       <div>
-        <span class="label">Volume(24H)</span>
+        <span class="label">Volume</span>
         <br />
         <span id="volume" class="content"></span>
       </div>

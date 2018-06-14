@@ -32,8 +32,5 @@ intro:
 
 ---
 
-<!-- {% include feature_row id="intro" type="center" %} -->
-
 {% include market.html %}
 
-<!-- {% include feature_row %} -->
