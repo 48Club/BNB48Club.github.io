@@ -27,5 +27,5 @@ Binance Chain作为一条公有链将专注于区块链资产的交易与转换�
 
 Binance团队
 
-[原文地址]!("https://support.binance.com/hc/zh-cn/articles/360001668872-Binance-Chain%E6%AD%A3%E5%BC%8F%E5%90%AF%E5%8A%A8")
+[原文地址](https://support.binance.com/hc/zh-cn/articles/360001668872-Binance-Chain%E6%AD%A3%E5%BC%8F%E5%90%AF%E5%8A%A8)
 

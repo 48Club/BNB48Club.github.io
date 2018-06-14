@@ -15,7 +15,7 @@ gallery:
 
 根据Binance白皮书约定，Binance第三次BNB季度销毁 2,220,314 BNB（价值约3000万美元）。
 
-[销毁地址]!("https://etherscan.io/tx/0x15132c07b4fdee0d4c77c2993588270914c1451953f5fa9ee20aa5450f399031")
+[销毁地址](https://etherscan.io/tx/0x15132c07b4fdee0d4c77c2993588270914c1451953f5fa9ee20aa5450f399031)
 
 BNB目前总量：194,972,068 BNB 
 
@@ -25,5 +25,5 @@ Binance团队
 
 2018年04月15日
 
-[原文地址]!("https://support.binance.com/hc/zh-cn/articles/360002684252-Binance%E7%AC%AC%E4%B8%89%E6%AC%A1BNB%E5%AD%A3%E5%BA%A6%E9%94%80%E6%AF%81%E5%85%AC%E5%91%8A")
+[原文地址](https://support.binance.com/hc/zh-cn/articles/360002684252-Binance%E7%AC%AC%E4%B8%89%E6%AC%A1BNB%E5%AD%A3%E5%BA%A6%E9%94%80%E6%AF%81%E5%85%AC%E5%91%8A)
 
