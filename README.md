@@ -8,8 +8,8 @@
 ```
 root/
 ├── _data/
-│   ├── navigation.yml
-│   └── ui-text.yml
+│    ├── navigation.yml
+│    └── ui-text.yml
 │
 ├── _includes/				
 │
@@ -22,10 +22,10 @@ root/
 ├── _sass/
 │
 └── assets/
-	├── css/
-	│
-	├── images/
-	│
+    ├── css/
+    │
+    ├── images/
+    │
     └── js/
 ```
 
