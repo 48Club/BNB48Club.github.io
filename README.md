@@ -4,6 +4,8 @@
 
 
 ### 文件结构
+
+```
 root/
 ├── _data/
 │   ├── navigation.yml
@@ -25,7 +27,7 @@ root/
 	├── images/
 	│
     └── js/
-
+```
 
 
 ### 本地运行
