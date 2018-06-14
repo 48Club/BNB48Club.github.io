@@ -1,13 +1,13 @@
 main:
   
-  - title: "BNB 白皮书"
-    url: http://oyet8xac9.bkt.clouddn.com/1516332142541.pdf
-
   - title: "币安新闻"
     url: /tags/#%E5%B8%81%E5%AE%89%E6%96%B0%E9%97%BB
 
-  - title: "Club"
-    url: /about/
+  - title: "BNB 白皮书"
+    url: http://oyet8xac9.bkt.clouddn.com/1516332142541.pdf
+
+  - title: "BNB48 Club"
+    url: /club/
 
   - title: "会员"
     url: /membership/
