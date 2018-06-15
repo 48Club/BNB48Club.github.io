@@ -2,7 +2,6 @@
 <script type="text/javascript">
 $(document).ready(function() {
   $.getJSON("http://api.bnb48.club/sell48", function(result) {
-    console.log(result);
     var value = result.amt.toFixed(2);
     $("#amount").html(value);
     $("#sell48btc").css("visibility", "visible");
