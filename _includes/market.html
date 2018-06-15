@@ -1,6 +1,5 @@
 <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
 <script type="text/javascript">
-$("#market").hide();
 $(document).ready(function() {
   $.getJSON("https://api.coinmarketcap.com/v2/ticker/1839/?convert=BTC", function(result) {
     var quotes = result.data.quotes;
@@ -29,7 +28,7 @@ $(document).ready(function() {
     number /= 1000000;
     $("#volume").html('$' + number.toFixed(2) + ' M');
 
-    $("#market").show();
+    $("#market").css("visibility", "visible");
   });
 });
 </script>
@@ -74,7 +73,7 @@ $(document).ready(function() {
 }
 
 </style>
-<div class="feature__wrapper container" id="market">
+<div class="feature__wrapper container" id="market" style="visibility: hidden;">
   <div class="row">
     <div class="col" id="col-header">
       <div>
