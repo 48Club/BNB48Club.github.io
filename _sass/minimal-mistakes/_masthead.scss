@@ -42,12 +42,15 @@
   font-family: sans-serif;
   font-weight: bold;
   font-size: 2vw;
-  color: black;
+  color: white;
+  background-color: black;
+  padding: 8px;
+  border-radius: 6px;
 }
 
 .hub span:nth-child(2) {
   background: rgb(243,186,46);
-  color: white;
+  color: black;
   border-radius: 6px;
   padding: 6px;
   display: inline-block;
