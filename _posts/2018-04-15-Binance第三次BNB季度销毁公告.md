@@ -5,7 +5,7 @@ excerpt:	"根据Binance白皮书约定，Binance第三次BNB季度销毁 2,220,3
 tags:
   - 币安新闻
 gallery:
-  - image_path: assets/images/3rd-burn.jpg
+  - image_path: http://oyet8xac9.bkt.clouddn.com/3rd-burn.jpg
     alt: "Binance第三次BNB季度销毁公告"
 ---
 
