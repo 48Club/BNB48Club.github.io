@@ -1,6 +1,5 @@
 ---
 permalink: /membership/
-title: "BNB48 Club 会员"
 excerpt: ""
 modified: 2018-06-12T16:39:37-04:00
 gallery:
