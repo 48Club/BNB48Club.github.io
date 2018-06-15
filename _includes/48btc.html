@@ -3,55 +3,31 @@
 $(document).ready(function() {
   $.getJSON("http://api.bnb48.club/sell48", function(result) {
     console.log(result);
-    var value = result.amt;
+    var value = result.amt.toFixed(2);
     $("#amount").html(value);
-    $("#market").css("visibility", "visible");
+    $("#sell48btc").css("visibility", "visible");
   });
 });
 </script>
 <style type="text/css">
-#market {
-  margin-top: 20px;
-  padding-bottom: 32px;
+#sell48btc {
+  padding-bottom: 8px;
   width: 100%;
   max-width: 750px;
 }
 
-.row {
-  overflow: hidden;
-  display: flex;
-  align-items: center;
-}
-
-#col-header {
-  float: left;
-  align-items: stretch;
-}
-
-#col-other {
-  float: left;
-  text-align: center;
-  align-items: stretch;
-  margin: auto;
-}
-
-#price-btc {
-  font-size: 0.8em;
-  color: gray;
-}
-
 .label {
-  font-size: .8em;
+  font-size: 0.8em;
 }
 
 .content {
-  font-size: .8em;
-  font-weight: bold;
+  font-size: 56px;
+  font-family: monospace;
 }
 
 </style>
 <div class="feature__wrapper container" id="sell48btc" style="visibility: hidden;">
   <div>
-    <span>1 BNB = 48BTC 挂单量: <span id="amount"></span></span>
+    <span class="label">1 BNB = 48 BTC 挂单量: <br /><span class="content" id="amount"></span></span>
   </div>
 </div>
