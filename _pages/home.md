@@ -11,5 +11,5 @@ excerpt: "1 BNB = 48 BTC"
 
 ---
 
-{% include sell48.html %}
+{% include 48btc.html %}
 
