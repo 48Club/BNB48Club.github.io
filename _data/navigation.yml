@@ -1,15 +1,11 @@
 main:
     - title: BNB白皮书
       url: https://www.binance.com/resources/ico/Binance_WhitePaper_cn.pdf
-    - title: 近期动态
+    - title: 动态
       url: /tags
-    - title: 币安链
-      url: /bnb48node
-    - title: 社交媒体
+    - title: 媒体
       url: /media
-    - title: 愿景与价值观
-      url: /values
-    - title: \#SellBNBAt48BTC#
-      url: /club
     - title: 会籍
       url: /membership
+    - title: 联系
+      url: /contact
