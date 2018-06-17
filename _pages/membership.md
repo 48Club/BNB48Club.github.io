@@ -15,7 +15,7 @@ gallery:
 ---
 
 
-{% include gallery caption="BNB48 Club" %}
+{% include gallery caption="" %}
 
 
 
