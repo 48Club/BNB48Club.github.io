@@ -5,4 +5,5 @@ modified: 2018-06-12T16:39:37-04:00
 
 ---
 
-{% include 48btc.html %}
+##商务合作
+business@bnb48.club
