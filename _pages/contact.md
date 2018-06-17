@@ -1,5 +1,5 @@
 ---
-permalink: /club/
+permalink: /contact/
 excerpt: ""
 modified: 2018-06-12T16:39:37-04:00
 
