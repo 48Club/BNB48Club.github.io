@@ -1,6 +1,5 @@
 main:
   - title: "关于BNB"
-    subfolderitems:
       - page: BNB WhitePaper
         url: https://www.binance.com/resources/ico/Binance_WhitePaper_en.pdf
       - page: BNB白皮书
