@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "BNB48 Club®"
+title                    : "1 BNB = 48 BTC"
 title_separator          : "-"
 name                     : &name "BNB48 Club®"
 description              : &description "1BNB=48BTC"
@@ -85,7 +85,7 @@ social:
 author:
   name             : *name
   avatar           :  #"bio-photo.jpg"
-  bio              : "1 BNB = 48 BTC"
+  bio              : "我们是一群BNB的持有者"
   location         : 
   email            : "web@bnb48.club"
   uri              : 
@@ -106,9 +106,9 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"SirIan_M"
+  twitter          : 
   vine             :
-  weibo            : #"SirIanM"
+  weibo            : 
   xing             :
   youtube          :
   telegram         : "BNB48_bot"
