@@ -5,7 +5,7 @@ main:
       url: /tags
     - title: 友情媒体
       url: /media
+    - title: 关于我们
+      url: /about
     - title: 加入会籍
       url: /membership
-    - title: 联系我们
-      url: /contact
