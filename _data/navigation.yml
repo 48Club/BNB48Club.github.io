@@ -1,30 +1,15 @@
 main:
-  - title: "关于BNB"
-      - page: BNB WhitePaper
-        url: https://www.binance.com/resources/ico/Binance_WhitePaper_en.pdf
-      - page: BNB白皮书
-        url: https://www.binance.com/resources/ico/Binance_WhitePaper_cn.pdf
-      - page: 币安公告
-        url: https://support.binance.com/hc/zh-cn/categories/115000056351
-      - page: 相关文章
-        url: /tags/#BNB
-
-  - title: "#BNB48#"
-    subfolderitems:
-      - page: 币安链节点(筹备中)
-        url: /bnb48node
-      - page: 社交媒体
-        url: /media
-      - page: 商务合作
-        url: /business
-      - page: 近期动态
-        url: /tags/#BNB48
-
-  - title: "俱乐部"
-    subfolderitems:
-      - page: 愿景与价值观
-        url: /values
-      - page: \#SellBNBAt48BTC#
-        url: /club
-      - page: 会籍
-        url: /membership
+    - title: BNB白皮书
+      url: https://www.binance.com/resources/ico/Binance_WhitePaper_cn.pdf
+    - title: 近期动态
+      url: /tags
+    - title: 币安链
+      url: /bnb48node
+    - title: 社交媒体
+      url: /media
+    - title: 愿景与价值观
+      url: /values
+    - title: \#SellBNBAt48BTC#
+      url: /club
+    - title: 会籍
+      url: /membership
