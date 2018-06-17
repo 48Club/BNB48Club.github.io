@@ -1,6 +1,4 @@
 main:
-    - title: BNB白皮书
-      url: https://www.binance.com/resources/ico/Binance_WhitePaper_cn.pdf
     - title: 俱乐部动态
       url: /tags
     - title: 友情媒体
@@ -9,3 +7,5 @@ main:
       url: /about
     - title: 加入会籍
       url: /membership
+    - title: BNB白皮书
+      url: https://www.binance.com/resources/ico/Binance_WhitePaper_cn.pdf
