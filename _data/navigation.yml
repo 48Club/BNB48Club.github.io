@@ -1,11 +1,11 @@
 main:
-    - title: 俱乐部动态
+    - title: 动态
       url: /tags
-    - title: 友情媒体
+    - title: 媒体
       url: /media
-    - title: 关于我们
+    - title: 关于
       url: /about
-    - title: 加入会籍
+    - title: 会籍
       url: /membership
     - title: BNB白皮书
       url: https://www.binance.com/resources/ico/Binance_WhitePaper_cn.pdf
