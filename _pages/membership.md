@@ -1,7 +1,6 @@
 ---
 permalink: /membership/
 excerpt: ""
-modified: 2018-06-12T16:39:37-04:00
 gallery:
   - url: http://www.hollandevenementengroep.nl/foto/11902/1000/files/Accent%20Fotos/the_party.jpg
     image_path: http://www.hollandevenementengroep.nl/foto/11902/1000/files/Accent%20Fotos/the_party.jpg

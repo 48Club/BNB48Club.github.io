@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "zh"
 title                    : "1 BNB = 48 BTC"
 title_separator          : "-"
 name                     : &name "BNB48 Club®"

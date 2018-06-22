@@ -17,6 +17,7 @@ en: &DEFAULT_EN
   tags_label                 : "Tags:"
   categories_label           : "Categories:"
   date_label                 : "Updated:"
+  posted_label               : "Posted:"
   comments_label             : "Leave a Comment"
   comments_title             : "Comments"
   more_label                 : "Learn More"
@@ -65,6 +66,7 @@ es: &DEFAULT_ES
   tags_label                 : "Etiquetas:"
   categories_label           : "Categorías:"
   date_label                 : "Actualizado:"
+  posted_label               : "Posted:"
   comments_label             : "Comentar"
   comments_title             :
   more_label                 : "Ver más"
@@ -109,6 +111,7 @@ fr: &DEFAULT_FR
   tags_label                 : "Tags :"
   categories_label           : "Catégories :"
   date_label                 : "Mis à jour :"
+  posted_label               : "Posted:"
   comments_label             : "Laisser un commentaire"
   comments_title             :
   more_label                 : "Lire plus"
@@ -156,6 +159,7 @@ tr: &DEFAULT_TR
   tags_label                 : "Etiketler:"
   categories_label           : "Kategoriler:"
   date_label                 : "Güncelleme tarihi:"
+  posted_label               : "Posted:"
   comments_label             : "Yorum yapın"
   comments_title             :
   more_label                 : "Daha fazlasını öğrenin"
@@ -198,6 +202,7 @@ pt: &DEFAULT_PT
   tags_label                 : "Tags:"
   categories_label           : "Categorias:"
   date_label                 : "Atualizado em:"
+  posted_label               : "Posted:"
   comments_label             : "Deixe um comentário"
   comments_title             :
   more_label                 : "Aprenda Mais"
@@ -242,6 +247,7 @@ it: &DEFAULT_IT
   tags_label                 : "Tags:"
   categories_label           : "Categorie:"
   date_label                 : "Aggiornato:"
+  posted_label               : "Posted:"
   comments_label             : "Scrivi un commento"
   comments_title             :
   more_label                 : "Scopri di più"
@@ -284,6 +290,7 @@ zh: &DEFAULT_ZH
   tags_label                 : "标签:"
   categories_label           : "分类:"
   date_label                 : "最新的:"
+  posted_label               : "发布于:"
   comments_label             : "留下评论"
   comments_title             : "评论"
   more_label                 : "了解更多"

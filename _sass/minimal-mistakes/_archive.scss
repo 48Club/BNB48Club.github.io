@@ -62,6 +62,16 @@
   }
 }
 
+.archive__item-date {
+  margin-top: 0;
+  font-size: $type-size-6;
+  color: gray;
+
+  & + p {
+    text-indent: 0;
+  }
+}
+
 .archive__item-teaser {
   position: relative;
   border-radius: $border-radius;
@@ -185,6 +195,16 @@
 
   .archive__item-excerpt {
     display: none;
+
+    @include breakpoint($medium) {
+      display: block;
+      font-size: $type-size-6;
+    }
+  }
+
+  .archive__item-date {
+    display: none;
+    color: gray;
 
     @include breakpoint($medium) {
       display: block;
