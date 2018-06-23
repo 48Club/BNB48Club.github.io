@@ -3,6 +3,8 @@ main:
       url: /tags
     - title: 媒体
       url: /media
+    - title: 名媛
+      url: /mm
     - title: 关于
       url: /about
     - title: 会籍
