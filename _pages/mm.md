@@ -15,11 +15,11 @@ gallery:
     title: ""
 
 gallery2:
-  - url: http://wx1.sinaimg.cn/mw690/005zmCdEgy1fsl0kf7cf2j30qt0zktb3.jpg
-    image_path: http://wx1.sinaimg.cn/mw690/005zmCdEgy1fsl0kf7cf2j30qt0zktb3.jpg
+  - url: https://mmistakes.github.io/minimal-mistakes/assets/images/unsplash-gallery-image-1.jpg
+    image_path: https://mmistakes.github.io/minimal-mistakes/assets/images/unsplash-gallery-image-1.jpg
     title: ""
-  - url: http://wx1.sinaimg.cn/mw690/005zmCdEgy1fsl0kf7cf2j30qt0zktb3.jpg
-    image_path: http://wx1.sinaimg.cn/mw690/005zmCdEgy1fsl0kf7cf2j30qt0zktb3.jpg
+  - url: https://mmistakes.github.io/minimal-mistakes/assets/images/unsplash-gallery-image-2.jpg
+    image_path: https://mmistakes.github.io/minimal-mistakes/assets/images/unsplash-gallery-image-2.jpg
     title: ""
 
 ---
