@@ -24,7 +24,7 @@ gallery2:
 
 ---
 
-{% include gallery id="gallery" caption="秋名山老司机 *淼 淼*" %}
+{% include gallery id="gallery" caption="某个*老司机*" %}
 
 
 {% include gallery id="gallery2" caption="平顶山飞车党 *占位党*" %}
