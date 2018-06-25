@@ -7,11 +7,11 @@ gallery:
   - url: http://wx1.sinaimg.cn/mw690/005zmCdEgy1fsl0kf7cf2j30qt0zktb3.jpg
     image_path: http://wx1.sinaimg.cn/mw690/005zmCdEgy1fsl0kf7cf2j30qt0zktb3.jpg
     title: ""
-  - url: http://wx1.sinaimg.cn/mw690/005zmCdEgy1fsl0kf7cf2j30qt0zktb3.jpg
-    image_path: http://wx1.sinaimg.cn/mw690/005zmCdEgy1fsl0kf7cf2j30qt0zktb3.jpg
+  - url: http://wx2.sinaimg.cn/mw690/005zmCdEgy1fsndpyx7cwj30qp0zkdix.jpg
+    image_path: http://wx2.sinaimg.cn/mw690/005zmCdEgy1fsndpyx7cwj30qp0zkdix.jpg
     title: ""
-  - url: http://wx1.sinaimg.cn/mw690/005zmCdEgy1fsl0kf7cf2j30qt0zktb3.jpg
-    image_path: http://wx1.sinaimg.cn/mw690/005zmCdEgy1fsl0kf7cf2j30qt0zktb3.jpg
+  - url: http://wx4.sinaimg.cn/mw690/005zmCdEgy1fsndpzhzbvj30qp0zk42s.jpg
+    image_path: http://wx4.sinaimg.cn/mw690/005zmCdEgy1fsndpzhzbvj30qp0zk42s.jpg
     title: ""
 
 gallery2:
@@ -25,6 +25,3 @@ gallery2:
 ---
 
 {% include gallery id="gallery" caption="某个*老司机*" %}
-
-
-{% include gallery id="gallery2" caption="平顶山飞车党 *占位党*" %}
