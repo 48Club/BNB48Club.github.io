@@ -1,6 +1,6 @@
 main:
     - title: 动态
-      url: /tags
+      url: /year-archive
     - title: 媒体
       url: /media
     - title: 名媛
