@@ -1,0 +1,44 @@
+<script type="text/javascript">
+  $(document).ready(function() {
+    $(".btn-reward").magnificPopup({
+      type: 'inline',
+      preloader: false,
+      focus: '#username',
+      modal: true
+    });
+
+    $(document).on('click', '.close', function (e) {
+      e.preventDefault();
+      $.magnificPopup.close();
+    });
+  });
+</script>
+
+<style type="text/css">
+.white-popup {
+  position: relative;
+  background: #FFF;
+  padding: 20px;
+  width: auto;
+  max-width: 500px;
+  margin: 20px auto;
+  text-align: center;
+}
+
+.reward-qr {
+  width: auto;
+  height: auto;
+}
+
+.reward-label {
+  font-size: .85em;
+}
+
+</style>
+
+<div id="reward-modal" class="white-popup mfp-hide">
+  <h1>请尽情打赏</h1>
+  <img class="reward-qr" src="https://api.qrserver.com/v1/create-qr-code/?size=320x320&data=0xef77fc266888bbd2c55264248e4af945ba9f3946">
+  <p class="reward-label">0xef77fc266888bbd2c55264248e4af945ba9f3946</p>
+  <p><a class="close" href="#">关闭</a></p>
+</div>
