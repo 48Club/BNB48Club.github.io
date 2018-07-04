@@ -1,0 +1,20 @@
+<div class="modal fade" id="modalErc20" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">打赏</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        能走到这一步，说明你的品味独特，骨骼清奇，请扫一扫打赏，或者复制 erc20 地址进行打赏
+      </div>
+      <img src="https://qr.api.cli.im/qr?data=0xef77fc266888bbd2c55264248e4af945ba9f3946&level=H&transparent=false&bgcolor=%23ffffff&forecolor=%23000000&blockpixel=12&marginblock=1&logourl=&size=280&kid=cliim&key=0903f858f1d3c10e42ac76e4b6597a0f"/>
+      <p>0xef77fc266888bbd2c55264248e4af945ba9f3946</p>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>

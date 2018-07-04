@@ -16,16 +16,7 @@ gallery-miaomiao:
   - url: https://qr.api.cli.im/qr?data=0xef77fc266888bbd2c55264248e4af945ba9f3946&level=H&transparent=false&bgcolor=%23ffffff&forecolor=%23000000&blockpixel=12&marginblock=1&logourl=&size=280&kid=cliim&key=0903f858f1d3c10e42ac76e4b6597a0f
     image_path: https://qr.api.cli.im/qr?data=0xef77fc266888bbd2c55264248e4af945ba9f3946&level=H&transparent=false&bgcolor=%23ffffff&forecolor=%23000000&blockpixel=12&marginblock=1&logourl=&size=280&kid=cliim&key=0903f858f1d3c10e42ac76e4b6597a0f
     title: "打赏BNB给老司机"
-    
-
-gallery2:
-  - url: https://mmistakes.github.io/minimal-mistakes/assets/images/unsplash-gallery-image-1.jpg
-    image_path: https://mmistakes.github.io/minimal-mistakes/assets/images/unsplash-gallery-image-1.jpg
-    title: ""
-  - url: https://mmistakes.github.io/minimal-mistakes/assets/images/unsplash-gallery-image-2.jpg
-    image_path: https://mmistakes.github.io/minimal-mistakes/assets/images/unsplash-gallery-image-2.jpg
-    title: ""
 
 ---
 
-{% include gallery id="gallery-miaomiao" caption="老司机" %}
+{% include gallery id="gallery-miaomiao" caption="老司机" erc20="0xA7758ecfC6D82851e1AB2BDC2F2482db5B7f4c37" %}
