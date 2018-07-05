@@ -45,7 +45,7 @@
     <figcaption>{{ include.caption | markdownify | remove: "<p>" | remove: "</p>" }}
       {% if include.erc20 %}
         <a class="btn-reward" id="reward" href="#reward-modal">我要打赏</a>
-        {% include modal.html %}
+        {% include modal.html name=include.caption erc20=include.erc20 %}
       {% endif %}
     </figcaption>
   {% endif %}
