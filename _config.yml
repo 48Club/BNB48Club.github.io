@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "zh"
-title                    : "BNB48 Club® -- 人均持仓BNB超过10000枚"
+title                    : "人均持仓BNB超过10000枚"
 title_separator          : "-"
 name                     : ""
 description              : &description ""
