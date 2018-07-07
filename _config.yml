@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "zh"
-title                    : "1BNB=48BTC"
+title                    : "BNB48 Club® -- 人均持仓BNB超过10000枚"
 title_separator          : "-"
-name                     : "BNB48 Club®"
-description              : &description "人均持仓BNB超过10000枚"
+name                     : ""
+description              : &description ""
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : ""
