@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "zh"
-title                    : "人均持仓BNB超过10000枚"
+title                    : "人均持仓BNB超过10000枚的投资俱乐部"
 title_separator          : "-"
 name                     : ""
 description              : &description ""
@@ -85,7 +85,7 @@ social:
 author:
   name             : *name
   avatar           :  #"bio-photo.jpg"
-  bio              : "人均持有BNB超过10000枚"
+  bio              : "人均持有BNB超过10000枚的投资俱乐部"
   location         : 
   email            : "web@bnb48.club"
   uri              : 
