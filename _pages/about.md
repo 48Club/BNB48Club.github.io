@@ -1,7 +1,8 @@
 ---
 permalink: /about
 excerpt: ""
-
+title: "关于BNB48 Club®"
+modified: 2018-07-28T00:17:37+08:00
 ---
 ### 释义
 BNB48的名称来自源起日本发扬至中国的AKB48、SNH48、CKG48、BEJ48等少女团体组合。
