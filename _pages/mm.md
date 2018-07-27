@@ -22,5 +22,6 @@ gallery-zhaozhao:
     title: ""
 ---
 
-{% include gallery id="gallery-miaomiao" caption="老司机" erc20="0xef77fc266888bbd2c55264248e4af945ba9f3946" %}
-{% include gallery id="gallery-zhaozhao" caption="昭昭" erc20="昭昭尚未提供eth地址" %}
+{% include gallery id="gallery-miaomiao" caption="老司机" %}
+<!--erc20="0xef77fc266888bbd2c55264248e4af945ba9f3946"-->
+{% include gallery id="gallery-zhaozhao" caption="昭昭" %}
