@@ -2,31 +2,18 @@
 permalink: /about
 excerpt: ""
 title: "关于BNB48 Club®"
-
-gallery:
-  - url: http://www.hollandevenementengroep.nl/foto/11902/1000/files/Accent%20Fotos/the_party.jpg
-    image_path: http://www.hollandevenementengroep.nl/foto/11902/1000/files/Accent%20Fotos/the_party.jpg
-    alt: "placeholder image 3"
-  - url: http://www.theholidayspot.com/friendship/images/friendship-day-party-ideas.jpg
-    image_path: http://www.theholidayspot.com/friendship/images/friendship-day-party-ideas.jpg
-    alt: "placeholder image 2"
-  - url: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjhmdsR_D0eLIKyfzTgP5OpEBvFQpFXgrYVNvkyXnXbS7FEel6
-    image_path: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjhmdsR_D0eLIKyfzTgP5OpEBvFQpFXgrYVNvkyXnXbS7FEel6
-    alt: "placeholder image 1"
 modified: 2018-07-28T00:17:37+08:00
 ---
-### 释义
-BNB48的名称来自源起日本发扬至中国的AKB48、SNH48、CKG48、BEJ48等少女团体组合。
+### 简介
+BNB48 Club®首先是一群认同BNB模式、理念的数字资产投资者的私人俱乐部。旨在为BNB社区生态贡献积极的力量，包括但不限于知识分享、安利宣传、组织自发资金成立公网节点等形式。
 
-BNB48 Club®首先是一群认同BNB模式、理念的数字资产投资者的私人俱乐部。旨在为BNB社区生态贡献积极的力量，包括但不限于知识分享、安利宣传、组织自发资金成立公网节点等形式。因此俱乐部成员都持有一定量的BNB，并均准备长期持有。
+俱乐部成员都持有一定量的BNB，并均准备长期持有。目前俱乐部成员170余名，人均持有BNB数量超过10000枚。
 
-同时，BNB48 Club®致力于发展48名认同BNB的美少女会员，享有更优惠的入会条件。
+成员中有的来自美帝、澳村、欧洲、特区、宝岛甚至非洲，是一个非常国际化的中文社群。其中有单纯的资金大户，有业余炒币者，也有华尔街机构交易者，在俱乐部中有机会接触到各个视角的意见。
 
-俱乐部的主要日常活动形式为Telegram私密聊天群，仅对会员及准会员开放。
+BNB48的名称来自源起日本发扬至中国的AKB48、SNH48、CKG48、BEJ48等少女团体组合。因此BNB48 Club®致力于发展48名认同BNB的美少女会员，享有更低的入会门槛。
 
-成员中有的来自美帝、澳村、特区、宝岛甚至非洲，是一个国际化的中文社群。
-
-其中有大户，有业余炒币，也有专业交易者，在俱乐部中有机会接触到各个视角的意见。
+俱乐部的主要线上活动场所为Telegram私密聊天群，仅对会员及准会员开放。但一应公告细则，通常会在网站同步公开。
 
 作为BNB的投资者与币安用户，不排除俱乐部会员中有人与币安的业务人员有接触甚至成员中有币安的在职人员，对此俱乐部不做限制，但须认识到此类行为并不代表币安均属成员的个人行为。俱乐部本身的活动、运营等如无特殊说明均与币安官方无关。
 
@@ -35,6 +22,7 @@ BNB48 Club®首先是一群认同BNB模式、理念的数字资产投资者的�
 ### 微信公众号 
 ![image](http://bnb48.club/assets/qrcode_for_bnb48_mp.jpg)
 ![image](http://bnb48.club/assets/qrcode_for_bgqkl.jpg)
+
 ### 微博
 [![SirIanM](https://tvax3.sinaimg.cn/crop.0.0.512.512.180/005zmCdEly8fs2jfggtpbj30e80e8t95.jpg "SirIanM")](https://weibo.com/bnb48sirian)
 [![星空皓月名](https://tvax4.sinaimg.cn/crop.0.0.996.996.180/9f0adb99ly8foydvzqpe1j20ro0ro75n.jpg "星空皓月名")](https://weibo.com/272110082)
@@ -43,18 +31,11 @@ BNB48 Club®首先是一群认同BNB模式、理念的数字资产投资者的�
 [![朱尐莫](https://tvax3.sinaimg.cn/crop.0.126.636.636.180/3ddeeae9ly8fjfhb6u1g0j20hs0vmgpe.jpg "朱尐莫")](https://weibo.com/331000566)
 [![BNB48Club-大帅](https://tva1.sinaimg.cn/crop.0.0.640.640.180/af2026b9jw8ew96r1gwqlj20hs0ht74x.jpg "BNB48Club-大帅")](https://weibo.com/2938119865)
 
+### 会籍身份
+俱乐部会籍身份即为俱乐部Telegram群成员资格，俱乐部Telegram群成员资格即为俱乐部会籍身份。
+申请加入请联系 recruit@bnb48.club
 
 ### 商务合作
-business#bnb48.club
+business@bnb48.club
 
-
-{% include gallery caption="" %}
-
-
-
-### 会员招募
-俱乐部目前停止招收新会员
-
-### 会籍身份
-目前俱乐部会籍身份即为俱乐部Telegram群成员资格，俱乐部Telegram群成员资格即为俱乐部会籍身份
 
