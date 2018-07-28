@@ -7,5 +7,7 @@ main:
       url: /mm
     - title: 关于我们
       url: /about
+    - title: 账务公开
+      url: /tags/#public
     - title: Koin48
       url: /koin48
