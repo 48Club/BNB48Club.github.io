@@ -3,11 +3,9 @@ main:
       url: https://www.binance.com/resources/ico/Binance_WhitePaper_cn.pdf
     - title: 新闻动态
       url: /year-archive
-    - title: 社交媒体
-      url: /media
     - title: 48美少女
       url: /mm
-    - title: Koin48
-      url: /koin48
     - title: 关于我们
       url: /about
+    - title: Koin48
+      url: /koin48
