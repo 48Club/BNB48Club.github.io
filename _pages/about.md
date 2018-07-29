@@ -33,7 +33,8 @@ BNB48的名称来自源起日本发扬至中国的AKB48、SNH48、CKG48、BEJ48�
 
 ### 会籍身份
 俱乐部会籍身份即为俱乐部Telegram群成员资格，俱乐部Telegram群成员资格即为俱乐部会籍身份。
-申请加入请联系 recruit@bnb48.club
+入会的门槛之一是长期持有1583或更多枚BNB（必要条件而非充分）
+如果您感兴趣但尚未决定加入，可以先加入[俱乐部预备群](https://t.me/bnb48clubreserve)进一步了解之后再做决定。
 
 ### 商务合作
 business@bnb48.club
