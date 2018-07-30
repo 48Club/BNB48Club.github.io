@@ -1,6 +1,6 @@
 ---
 permalink: /mm
-title: "BNB48 Club® 的美女成员们"
+title: "BNB48 Club® 的美少女们"
 excerpt: "欢迎会员mm投稿。不强求署名。"
 
 gallery-miaomiao:
