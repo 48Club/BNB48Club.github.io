@@ -8,12 +8,6 @@ gallery-congcong:
     image_path: http://wx4.sinaimg.cn/mw690/005zmCdEgy1ftsxcfs42wj30nq0qqdlb.jpg
     title: ""
 gallery-miaomiao:
-  - url: http://wx1.sinaimg.cn/mw690/005zmCdEgy1fsl0kf7cf2j30qt0zktb3.jpg
-    image_path: http://wx1.sinaimg.cn/mw690/005zmCdEgy1fsl0kf7cf2j30qt0zktb3.jpg
-    title: ""
-  - url: http://wx2.sinaimg.cn/mw690/005zmCdEgy1fsndpyx7cwj30qp0zkdix.jpg
-    image_path: http://wx2.sinaimg.cn/mw690/005zmCdEgy1fsndpyx7cwj30qp0zkdix.jpg
-    title: ""
   - url: http://wx4.sinaimg.cn/mw690/005zmCdEgy1fsndpzhzbvj30qp0zk42s.jpg
     image_path: http://wx4.sinaimg.cn/mw690/005zmCdEgy1fsndpzhzbvj30qp0zk42s.jpg
     title: ""
@@ -33,5 +27,5 @@ gallery-jiajia:
 {% include gallery id="gallery-congcong" caption="葱葱" %}
 {% include gallery id="gallery-jiajia" caption="佳佳" %}
 {% include gallery id="gallery-zhaozhao" caption="昭昭" %}
-{% include gallery id="gallery-miaomiao" caption="淼淼" %}
+{% include gallery id="gallery-miaomiao" caption="司机" %}
 <!--erc20="0xef77fc266888bbd2c55264248e4af945ba9f3946"-->
