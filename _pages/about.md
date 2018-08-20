@@ -19,6 +19,18 @@ BNB48的名称来自源起日本发扬至中国的AKB48、SNH48、CKG48、BEJ48�
 
 所有未在本网站书面形式提及却以BNB48名义进行的组织、群聊、活动均系假冒，请注意识别风险。
 
+### 会籍身份
+俱乐部会籍身份即为俱乐部Telegram群成员资格，俱乐部Telegram群成员资格即为俱乐部会籍身份。
+
+入会的门槛之一是长期持有1583或更多枚BNB（必要条件而非充分）
+
+如果您感兴趣但尚未决定加入，可以先加入[俱乐部预备群](https://t.me/bnb48club_cn)进一步了解之后再做决定。
+
+根据发言所体现出的投资理念、价值观，俱乐部成员会不定期淘汰。
+
+### 商务合作
+business@bnb48.club
+
 ### 微信公众号 
 ![image](http://bnb48.club/assets/qrcode_for_bnb48_mp.jpg)
 ![image](http://bnb48.club/assets/qrcode_for_bgqkl.jpg)
@@ -30,13 +42,5 @@ BNB48的名称来自源起日本发扬至中国的AKB48、SNH48、CKG48、BEJ48�
 [![风清投资](https://tvax4.sinaimg.cn/crop.0.0.580.580.180/a5d784e5ly8fsgmkxngkwj20g40pxq47.jpg "风清投资")](https://weibo.com/2782364901)
 [![朱尐莫](https://tvax3.sinaimg.cn/crop.0.126.636.636.180/3ddeeae9ly8fjfhb6u1g0j20hs0vmgpe.jpg "朱尐莫")](https://weibo.com/331000566)
 [![BNB48Club-大帅](https://tva1.sinaimg.cn/crop.0.0.640.640.180/af2026b9jw8ew96r1gwqlj20hs0ht74x.jpg "BNB48Club-大帅")](https://weibo.com/2938119865)
-
-### 会籍身份
-俱乐部会籍身份即为俱乐部Telegram群成员资格，俱乐部Telegram群成员资格即为俱乐部会籍身份。
-入会的门槛之一是长期持有1583或更多枚BNB（必要条件而非充分）
-如果您感兴趣但尚未决定加入，可以先加入[俱乐部预备群](https://t.me/bnb48club_cn)进一步了解之后再做决定。
-
-### 商务合作
-business@bnb48.club
 
 
