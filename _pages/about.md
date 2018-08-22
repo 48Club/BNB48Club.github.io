@@ -12,30 +12,6 @@ BNB48 Club®首先是一群认同BNB模式、理念的数字资产投资者的�
 成员中有的来自美帝、澳村、欧洲、特区、宝岛甚至非洲，是一个非常国际化的中文社群。其中有单纯的资金大户，有业余炒币者，也有华尔街机构交易者，在俱乐部中有机会接触到各个视角的意见。
 
 BNB48的名称来自源起日本发扬至中国的AKB48、SNH48、CKG48、BEJ48等少女团体组合。因此BNB48 Club®致力于发展48名认同BNB的美少女会员，享有更低的入会门槛。
-### 线上社区
-
-俱乐部的主要线上活动场所为各社交媒体，Telegram主群仅对会员开放，其他预备群或频道则为公开。
-
-#### Telegram
-[俱乐部中文预备群](https://t.me/bnb48club_cn)
-
-[俱乐部英文预备群](https://t.me/bnb48club_en)
-
-[俱乐部发布频道](https://t.me/bnb48club_publish)
-
-[俱乐部斗图群](https://t.me/bnb48club_sticker)
-
-#### Facebook
-
-[BNB48 Facebook主页](https://www.facebook.com/bnb48/)
-
-[BNB48 Facebook小组](https://www.facebook.com/groups/280025322599842/)
-
-#### 微信公众号 
-![image](http://bnb48.club/assets/qrcode_for_bnb48_mp.jpg)
-
-所有未在本网站书面形式提及却以BNB48名义进行的组织、群聊、活动均系假冒，请注意识别风险。
-
 ### 会籍身份
 俱乐部会籍身份即为俱乐部Telegram主群成员资格，俱乐部Telegram群成员资格即为俱乐部会籍身份。
 
@@ -47,6 +23,40 @@ BNB48的名称来自源起日本发扬至中国的AKB48、SNH48、CKG48、BEJ48�
 
 ### 商务合作
 business@bnb48.club
+
+### 线上社区
+
+俱乐部的主要线上活动场所为各社交媒体，Telegram主群仅对会员开放，其他预备群或频道则为公开。
+
+#### Telegram
+[俱乐部发布频道](https://t.me/bnb48club_publish)
+
+[俱乐部中文预备群](https://t.me/bnb48club_cn)
+
+[俱乐部英文预备群](https://t.me/bnb48club_en)
+
+[俱乐部斗图群](https://t.me/bnb48club_sticker)
+
+[俱乐部移民事务交流](https://t.me/bnb48club_emigrate)
+
+#### GitHub
+
+[BNB48 Club](https://github.com/BNB48Club)
+
+#### LinkedIn
+
+[俱乐部LinkedIn主页](https://www.linkedin.com/company/bnb48)
+
+#### Facebook
+
+[BNB48 Facebook主页](https://www.facebook.com/bnb48/)
+
+[BNB48 Facebook小组](https://www.facebook.com/groups/280025322599842/)
+
+#### 微信公众号 
+![image](http://bnb48.club/assets/qrcode_for_bnb48_mp.jpg)
+
+所有未在本网站书面形式提及却以BNB48名义进行的组织、群聊、活动均有可能系假冒，请注意识别风险。
 
 
 <!--
