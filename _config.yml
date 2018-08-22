@@ -65,7 +65,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : #&twitter "SirIan_M"
+  username               : &twitter "bnb48club"
 weibo:
   username               : #&weibo "SirIanM"
 facebook:
@@ -106,7 +106,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "SirIan_M"
+  twitter          : "bnb48club"
   vine             :
   weibo            : "bnb48sirian"
   xing             :
