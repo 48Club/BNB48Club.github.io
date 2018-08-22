@@ -53,6 +53,9 @@ business@bnb48.club
 
 [BNB48 Facebook小组](https://www.facebook.com/groups/280025322599842/)
 
+#### Twitter
+
+[BNB48 Club](https://www.twitter.com/bnb48club/)
 #### 微信公众号 
 ![image](http://bnb48.club/assets/qrcode_for_bnb48_mp.jpg)
 
