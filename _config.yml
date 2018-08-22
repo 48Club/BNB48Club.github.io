@@ -65,11 +65,11 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter "bnb48club"
+  username               : "bnb48club"
 weibo:
-  username               : #&weibo "SirIanM"
+  username               : "SirIanM"
 facebook:
-  username               :
+  username               : "bnb48"
   app_id                 :
   publisher              :
 og_image                 : #"site-logo.png" # Open Graph/Twitter default site image
