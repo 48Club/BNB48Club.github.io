@@ -45,17 +45,18 @@ business@bnb48.club
 
 #### LinkedIn
 
-[俱乐部LinkedIn主页](https://www.linkedin.com/company/bnb48)
+[BNB48](https://www.linkedin.com/company/bnb48)
 
 #### Facebook
 
-[BNB48 Facebook主页](https://www.facebook.com/bnb48/)
+[BNB48 Page](https://www.facebook.com/bnb48/)
 
-[BNB48 Facebook小组](https://www.facebook.com/groups/280025322599842/)
+[BNB48 Group](https://www.facebook.com/groups/280025322599842/)
 
 #### Twitter
 
 [BNB48 Club](https://www.twitter.com/bnb48club/)
+
 #### 微信公众号 
 ![image](http://bnb48.club/assets/qrcode_for_bnb48_mp.jpg)
 
