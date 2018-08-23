@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "zh"
-title                    : "人均持仓BNB超过10000枚的投资俱乐部"
+title                    : "一群持久的人，进行持久的投资"
 title_separator          : "-"
-name                     : ""
-description              : &description ""
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "BNB48 Club®"
+description              : "Description"
+url                      : "http://bnb48.club"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : ""
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
