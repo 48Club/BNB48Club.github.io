@@ -35,11 +35,13 @@ business@bnb48.club
 
 [俱乐部英文公开群](https://t.me/bnb48club_en)
 
-[俱乐部无文字群](https://t.me/bnb48club_sticker)
+[无文字](https://t.me/bnb48club_sticker)
 
-[俱乐部移民事务交流](https://t.me/bnb48club_emigrate)
+[移民](https://t.me/bnb48club_emigrate)
 
-[俱乐部翻墙公开交流](https://t.me/bnb48club_fuckgfw)
+[翻墙](https://t.me/bnb48club_fuckgfw)
+
+[问答群](https://t.me/bnb48club_qanda)
 
 #### GitHub
 
