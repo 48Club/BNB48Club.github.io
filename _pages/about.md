@@ -29,15 +29,17 @@ business@bnb48.club
 俱乐部的主要线上活动场所为各社交媒体，Telegram主群仅对会员开放，其他预备群或频道则为公开。
 
 #### Telegram
-[俱乐部发布频道](https://t.me/bnb48club_publish)
+[俱乐部公告频道](https://t.me/bnb48club_publish)
 
-[俱乐部中文预备群](https://t.me/bnb48club_cn)
+[俱乐部中文公开群](https://t.me/bnb48club_cn)
 
-[俱乐部英文预备群](https://t.me/bnb48club_en)
+[俱乐部英文公开群](https://t.me/bnb48club_en)
 
-[俱乐部斗图群](https://t.me/bnb48club_sticker)
+[俱乐部无文字群](https://t.me/bnb48club_sticker)
 
 [俱乐部移民事务交流](https://t.me/bnb48club_emigrate)
+
+[俱乐部翻墙公开交流](https://t.me/bnb48club_fuckgfw)
 
 #### GitHub
 
