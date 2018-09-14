@@ -42,7 +42,7 @@ business@bnb48.club
 
 如果机器人被移除或被管理员封禁，则不再可以聊天挖矿。
 
-[48无字群](https://t.me/bnb48club_sticker)
+[48大赌场](https://t.me/bnb48club_casino)
 
 [48移民群](https://t.me/bnb48club_emigrate)
 
