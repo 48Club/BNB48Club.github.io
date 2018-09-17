@@ -50,8 +50,6 @@ business@bnb48.club
 
 [48问答群](https://t.me/bnb48club_qanda)
 
-[币安官方中文群](https://t.me/BinanceChinese)
-
 
 
 ### 风险提示
