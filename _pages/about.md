@@ -15,11 +15,11 @@ BNB48的名称来自源起日本发扬至中国的AKB48、SNH48、CKG48、BEJ48�
 ### 会籍身份
 俱乐部会籍身份即为俱乐部Telegram主群成员资格，俱乐部Telegram群成员资格即为俱乐部会籍身份。
 
-目前暂停公开招募
+Telegram主群为私密群，持仓[Koge48](http://bnb48.club/koge48)达标可通过[俱乐部管家机器人](https://t.me/bnb48_bot)自助入群
 
-如果您并非会员但对俱乐部有兴趣，可以先加入预备群进一步了解。
+如果您暂时不满足入群标准但对俱乐部有兴趣，可以先加入预备群进一步了解。
 
-根据发言所体现出的投资理念、价值观，俱乐部成员会不定期淘汰。
+根据发言所体现出的投资理念、价值观，俱乐部成员有可能不定期淘汰。
 
 ### 商务合作
 business@bnb48.club
@@ -34,14 +34,6 @@ business@bnb48.club
 [俱乐部中文公开群](https://t.me/bnb48club_cn)
 
 [俱乐部英文公开群](https://t.me/bnb48club_en)
-
-[无字群](https://t.me/bnb48club_sticker)
-
-[移民群](https://t.me/bnb48club_emigrate)
-
-[翻墙群](https://t.me/bnb48club_fuckgfw)
-
-[问答群](https://t.me/bnb48club_qanda)
 
 #### GitHub
 
