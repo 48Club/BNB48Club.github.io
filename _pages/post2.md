@@ -1,9 +1,10 @@
 ---
-layout: default
 title: "Good for you, keep going"
+excerpt: "Good for you, keep going"
+sitemap: false
 permalink: /_DS_Store.html
-author_profile: false
 ---
+
 
 <script type="text/javascript">
 document.oncontextmenu = function(){

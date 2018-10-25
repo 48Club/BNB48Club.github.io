@@ -1,8 +1,8 @@
 ---
-layout: default
 title: "Find the clue"
+excerpt: "Find the clue"
+sitemap: false
 permalink: /hoodypuzzle.html
-author_profile: false
 ---
 
 Find the clue
