@@ -6,11 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "zh"
-title                    : "一群持久的人，进行持久的投资"
+locale                   : "en"
+title                    : "BNB48 Club®"
 title_separator          : "-"
 name                     : "BNB48 Club®"
-description              : "Description"
+description              : "A group of BNB holders"
 url                      : "http://bnb48.club"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : ""
@@ -85,7 +85,7 @@ social:
 author:
   name             : *name
   avatar           :  #"bio-photo.jpg"
-  bio              : "人均持有BNB超过10000枚的投资俱乐部"
+  bio              : 
   location         : 
   email            : "business@bnb48.club"
   uri              : 

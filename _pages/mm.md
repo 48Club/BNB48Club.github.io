@@ -1,7 +1,7 @@
 ---
 permalink: /mm
-title: "BNB48 Club® 的美少女们"
-excerpt: "欢迎会员mm投稿。不强求署名。"
+title: "BNB48 Club® Girls"
+excerpt: ""
 
 gallery-congcong:
   - url: http://wx4.sinaimg.cn/mw690/005zmCdEgy1ftsxcfs42wj30nq0qqdlb.jpg
@@ -21,11 +21,11 @@ gallery-zhaozhao:
 gallery-jiajia:
   - url: http://wx2.sinaimg.cn/mw690/005zmCdEgy1fts01urb2uj30qo0qodhi.jpg
     image_path: http://wx2.sinaimg.cn/mw690/005zmCdEgy1fts01urb2uj30qo0qodhi.jpg
-    title: "佳佳在吉他社"
+    title: "Jiajia Guitar"
 ---
 
-{% include gallery id="gallery-congcong" caption="葱葱" %}
-{% include gallery id="gallery-jiajia" caption="佳佳" %}
-{% include gallery id="gallery-zhaozhao" caption="昭昭" %}
-{% include gallery id="gallery-miaomiao" caption="司机" %}
+{% include gallery id="gallery-congcong" caption="Cong" %}
+{% include gallery id="gallery-jiajia" caption="Jiajia" %}
+{% include gallery id="gallery-zhaozhao" caption="Zhao" %}
+{% include gallery id="gallery-miaomiao" caption="SIJI" %}
 <!--erc20="0xef77fc266888bbd2c55264248e4af945ba9f3946"-->

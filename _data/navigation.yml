@@ -1,11 +1,11 @@
 main:
     - title: BNB
       url: https://www.binance.com/resources/ico/Binance_WhitePaper_cn.pdf
-    - title: 新闻动态
+    - title: News
       url: /year-archive
-    - title: 48美少女
+    - title: Girls
       url: /mm
     - title: Koge48
       url: /koge48
-    - title: 关于我们
+    - title: About
       url: /about
