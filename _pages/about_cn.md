@@ -1,5 +1,5 @@
 ---
-permalink: /about
+permalink: /about_cn
 excerpt: ""
 title: "关于BNB48 Club®"
 modified: 2018-07-28T00:17:37+08:00

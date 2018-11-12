@@ -1,5 +1,5 @@
 ---
-permalink: /koge48
+permalink: /koge48_en
 excerpt: "Koge48积分，也简称Koge48或Koge，是BNB48俱乐部中心化管理的积分系统"
 title: "Koge48"
 modified: 2018-09-10T19:02:37+08:00
