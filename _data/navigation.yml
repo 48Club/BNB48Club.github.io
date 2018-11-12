@@ -1,29 +1,13 @@
 main:
     - title: BNB
-      subfolderitems:
-        - page: 白皮书
-          url: https://www.binance.com/resources/ico/Binance_WhitePaper_cn.pdf
-        - page: WhitePaper
-          url: https://www.binance.com/resources/ico/Binance_WhitePaper_en.pdf
-    - title: News/新闻
+      url: https://www.binance.com/resources/ico/Binance_WhitePaper_cn.pdf
+    - title: 大事记
       url: /year-archive
     - title: MM
       url: /mm
     - title: Koge48
-      subfolderitems:
-        - page: 简介
-          url: /koge48_cn
-        - page: Introduction
-          url: /koge48_en
-    - title: Node/节点
-      subfolderitems:
-        - page: 币安链节点
-          url: 
-        - page: Binance Chain Node
-          url: 
-    - title: About/关于
-      subfolderitems:
-        - page: 简介
-          url: /about_cn
-        - page: About
-          url: /about_en
+      url: /koge48_cn
+    - title: Binance节点
+      url: /binancenode
+    - title: 关于
+      url: /about_cn
