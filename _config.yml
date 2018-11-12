@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en"
+locale                   : "cn"
 title                    : "一群持久的人 做持久的投资"
 title_separator          : "-"
 name                     : "BNB48 Club®"
