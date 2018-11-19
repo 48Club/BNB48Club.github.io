@@ -1,6 +1,6 @@
 main:
-    - title: BNB白皮书
-      url: https://www.binance.com/resources/ico/Binance_WhitePaper_cn.pdf
+    - title: BNB
+      url: /bnb
     - title: 48纪事
       url: /year-archive
     - title: 48MM
