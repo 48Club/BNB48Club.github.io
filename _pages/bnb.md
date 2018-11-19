@@ -14,6 +14,7 @@ BNB是纯粹中心化的代币，至少目前还是。
 - 币安每季度销毁当季利润20%的等值BNB，缩减BNB供应量。等效于币安利润的20%向所有BNB持有者分红。详见[白皮书](https://www.binance.com/resources/ico/Binance_WhitePaper_cn.pdf)
 - 币安交易者账户持仓有足够BNB时，用BNB抵扣原始交易手续费，享受打折。详见[白皮书](https://www.binance.com/resources/ico/Binance_WhitePaper_cn.pdf)
 - 币安交易者账户持仓足够BNB，是提升VIP级别享受原始交易费率优惠的必要条件。详见[网站费率说明](https://www.binance.com/en/fee/schedule)
+- 币安交易者账户持仓500BNB或以上，享受推荐新用户交易费返回比例从20%提高到40%。详见[推荐说明](https://www.binance.com/invite.html)
 - *币安账户持有BNB一定数量的账户曾两次获得站内空投。
 - *币安账户持有BNB情况曾在三次社区免费投票上币中决定投票权。
 
