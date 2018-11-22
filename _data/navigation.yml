@@ -8,6 +8,6 @@ main:
     - title: 48节点
       url: /binancenode
     - title: Koge48
-      url: /koge48_cn
+      url: /koge48
     - title: 关于48
-      url: /about_cn
+      url: /about
