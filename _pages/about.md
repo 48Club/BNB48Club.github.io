@@ -60,7 +60,7 @@ business@bnb48.club
 
 所有未在本网站书面形式提及却以BNB48名义进行的组织、群聊、活动均有可能系假冒，请注意识别风险。
 
-<a target="_blank" href="http://bnb48club.mikecrm.com/kUxnAAX" style="position:fixed;z-index:999;right:-5px;bottom: 20px;display: inline-block;width: 20px;border-radius: 5px;color:white;font-size:14px;line-height:17px;background: #2476CE;box-shadow: 0 0 5px #666;word-wrap: break-word;padding: 10px 6px;border: 2px solid white;">申请加入俱乐部</a>
+<a target="_blank" href="http://bnb48club.mikecrm.com/kUxnAAX" style="position:fixed;z-index:999;left:-5px;bottom: 20px;display: inline-block;width: 20px;border-radius: 5px;color:white;font-size:14px;line-height:17px;background: #2476CE;box-shadow: 0 0 5px #666;word-wrap: break-word;padding: 10px 6px;border: 2px solid white;">申请加入俱乐部</a>
 
 <!--
 ![image](http://bnb48.club/assets/qrcode_for_bgqkl.jpg)
