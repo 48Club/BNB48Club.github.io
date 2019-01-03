@@ -29,7 +29,7 @@ Koge48积分不具有任何价值。
 \*如果想在你的群里开启聊天挖Koge48，只需要将bnb48_club机器人加入你的群即可。如果机器人被移除或无阅读权限，则不再可以聊天挖矿。
 
 - [48大赌场](https://t.me/joinchat/GRaQmk6jNzrBP1XQcCkSKg)
-- [48移民群](https://t.me/joinchat/GRaQmlAedWMtKi5m7oG5WA)
+- [48移民群](https://t.me/joinchat/GRaQmlAedWNAdslCxOzKog)
 - [48翻墙群](https://t.me/joinchat/GRaQmkzYU3rHwXeNWTSV_w)
 
 ## 持有BNB空投Koge48
