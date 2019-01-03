@@ -26,7 +26,7 @@ Koge48积分不具有任何价值。
 在每个机器人入驻并有正常权限的Telegram SuperGroup内，每当非机器人发表文字，就有一定的（暂行6%）概率“挖”出一定量Koge48积分。积分直接计入发言账户，与是否在某群被封，是否担任管理员，甚至是否被Telegram封禁均无关系。
 
 ### 一些聊天挖矿群
-\*如果想在你的群里开启聊天挖Koge48，只需要将bnb48_club机器人加入你的群即可。如果机器人被移除或无阅读权限，则不再可以聊天挖矿。
+\*如果想在你的群里开启聊天挖Koge48，只需要将@bnb48_bot机器人加入你的群即可。如果机器人被移除或无阅读权限，则不再可以聊天挖矿。
 
 - [48大赌场](https://t.me/joinchat/GRaQmk6jNzrBP1XQcCkSKg)
 - [48移民群](https://t.me/joinchat/GRaQmlAedWNAdslCxOzKog)
