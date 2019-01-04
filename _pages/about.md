@@ -94,6 +94,7 @@ BNB持仓者也可以通过页面左侧链接提交入会申请，等待审批�
 
 ### 商务合作
 business@bnb48.club
+
 <!--
 ![image](http://bnb48.club/assets/qrcode_for_bgqkl.jpg)
 ### 微博
