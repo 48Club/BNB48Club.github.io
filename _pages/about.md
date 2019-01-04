@@ -29,18 +29,40 @@ BNB48 Club®的创始者是一群在接触BNB的过程中产生共鸣的投资�
 ### 开源贡献
 [BNBEvaluatorForBinance](https://github.com/BNB48Club/BNBEvaluatorForBinance.com)  BNB48开发的在币安账户中心页面以BNB代替BTC进行资产估值的浏览器脚本。
 
-[Binance-History-Helper](https://github.com/BNB48Club/Binance-History-Helper) BNB48搜集的社区网友开发的浏览器插件，用于在币安交易历史页面显示交易时法币估值。
-
 [BNB48_bot](https://github.com/BNB48Club/BNB48_bot) BNB48开发的Telegram社区机器人，现用于币安数十个语言的电报群的管理。
 
 [Binance API文档](https://github.com/BNB48Club/binance-api-docs-cn-bnb48) BNB48翻译的币安API文档中文版，现已合入币安正式文档。
 
+[Binance-History-Helper](https://github.com/BNB48Club/Binance-History-Helper) BNB48搜集的社区网友开发的浏览器插件，用于在币安交易历史页面显示交易时法币估值。
+
 ### BNB48与币安
-BNB48是BNB社区成员，而币安是BNB的发行者，是BNB社区最大、最重要的成员。两者有关联但不具有任何意义上的从属关系。
+
+BNB48是BNB社区成员，而币安是BNB的发行者，是BNB社区最大、最重要的成员。两者有关联合作但不具有任何意义上的从属关系。
 
 俱乐部为数不少的会员同时是币安天使，这是会员个人行为，并非出自俱乐部的要求或授意。
 
 同样，币安天使或币安员工加入BNB48俱乐部也是个人行为，同样不会出自币安的要求或授意。
+
+### 支持俱乐部
+
+BNB48俱乐部目前是非营利~~组织~~
+
+俱乐部运营的主要成本有：
+
+1. 域名费用。
+1. 大陆服务器费用。
+1. 海外服务器费用。
+1. 周边产品设计制作成本。
+
+此外还有参与者的人员时间成本。
+
+俱乐部目前接受捐赠的唯一途径是`0xa1F28696D9f0Aa80aF051ebd8780b4fB13E3290e`，接受ETH以及各种ERC20资产，首选BNB。
+
+俱乐部感谢每一笔捐赠，但限于各方面的条件暂时无法承诺公开每一笔支出的细节。
+
+建议您在可欣然接受的程度内酌情捐赠。
+
+为俱乐部发行的[Koge48积分](./koge48)引入/设计更多使用场景，或是对俱乐部的[Binance Chain节点](./binancenode)予以宣传乃至投票，也都是对俱乐部非常有利的支持。
 
 ### 会籍身份
 
@@ -48,7 +70,7 @@ Telegram主群为私密群，持仓[Koge48](http://bnb48.club/koge48)达标可�
 
 BNB持仓者也可以通过页面左侧链接提交入会申请，等待审批。
 
-包括但不限于 1、俱乐部急需技能人才 2、美少女 等情况可特别入会（申请者请发email详细说明）。
+包括但不限于 1、俱乐部急需技能人才 2、美少女 3、对俱乐部予以大力支持 等情况可特别入会（申请者请发email详细说明）。
 
 无论您是否俱乐部正式会员，都可以加入俱乐部公开群参与日常讨论。
 
