@@ -2,33 +2,82 @@
 permalink: /about
 excerpt: ""
 title: "关于BNB48 Club®"
-modified: 2018-07-28T00:17:37+08:00
+modified: 2019-01-05T04:04:37+08:00
 ---
-### 简介
-BNB48 Club®是一个私人投资俱乐部。发起自一批在BNB投资过程中对投资理念、思想有共鸣的数字资产投资者。俱乐部初期旨在为BNB社区生态贡献积极的力量，包括但不限于知识分享、安利宣传、组织自发资金成立公网节点等形式。
+### BNB48是什么
+BNB48 Club®是一个投资俱乐部。
 
-俱乐部成员均持有并准备长期持有一定量的BNB。目前俱乐部成员170余名，人均持有BNB数量超过10000枚。
+BNB48的名称灵感来自源起日本发扬至中国的AKB48、SNH48、CKG48、BEJ48等少女团体组合。48起初并没有确切的含义，虽然俱乐部一度曾就名称中的48发起过#SellAt48BTC 同名活动，但由于币安交易规则的调整无法继续进行。
 
-成员中有的来自美帝、澳村、欧洲、特区、宝岛甚至非洲，是一个非常国际化的中文社群。其中有单纯的资金大户，有业余炒币者，也有华尔街机构交易者，在俱乐部中有机会接触到各个视角的意见。
+### 成员
+BNB48 Club®的创始者是一群在接触BNB的过程中产生共鸣的投资者。
 
-BNB48的名称来自源起日本发扬至中国的AKB48、SNH48、CKG48、BEJ48等少女团体组合。因此BNB48 Club®致力于发展48名认同BNB的美少女会员，享有更低的入会门槛。
+成员分布在十余个国家，是一个相当国际化、成分也相当复杂的中文社群。其中有华尔街大鳄，有科研工作者，有交易员，有天使投资人，有矿工，也有程序员。
+
+大家的共同点是均持有一定数量的BNB，目前人均持有BNB数量超过25000枚(截至2019/1/5)。
+
+基于这样朴素的共同利益，俱乐部愿意为BNB贡献积极的力量，包括但不限于知识分享、投资分析、社区宣传、技术支持等。
+
+### 信息分享
+
+通过微信公众号、微博、Twitter等媒体渠道，俱乐部为社区提供币安交易标的及同类产品评测，并以BNB社区成员身份积极行使监督职能。例如，BNB48是2018年首个撰文指出Fcoin的传销骗局性质的媒体（自媒体），也是指出币安对BNB锁仓信息披露和资产隔离不足之处并随之被币安采纳的首个(也是唯一一个)单位。
+
+从2017下半年俱乐部即开始通过微信公众号向不方便直接访问币安站点的中国大陆居民提供行情查询服务，持续至今。
+
+以公开API数据为基础，俱乐部免费提供币安的交易统计、盈利估计、BNB估值及销毁预测供投资者参考。可通过微信公众号随时查阅最新数据，该数据也每日于Telegram公告频道广播。
+
+### 开源贡献
+[BNBEvaluatorForBinance](https://github.com/BNB48Club/BNBEvaluatorForBinance.com)  BNB48开发的在币安账户中心页面以BNB代替BTC进行资产估值的浏览器脚本。
+
+[BNB48_bot](https://github.com/BNB48Club/BNB48_bot) BNB48开发的Telegram社区机器人，现用于币安数十个语言的电报群的管理。
+
+[Binance API文档](https://github.com/BNB48Club/binance-api-docs-cn-bnb48) BNB48翻译的币安API文档中文版，现已合入币安正式文档。
+
+[Binance-History-Helper](https://github.com/BNB48Club/Binance-History-Helper) BNB48搜集的社区网友开发的浏览器插件，用于在币安交易历史页面显示交易时法币估值。
+
+### BNB48与币安
+
+BNB48是BNB社区成员，而币安是BNB的发行者，是BNB社区最大、最重要的成员。两者有关联合作但不具有任何意义上的从属关系。
+
+俱乐部为数不少的会员同时是币安天使，这是会员个人行为，并非出自俱乐部的要求或授意。
+
+同样，币安天使或币安员工加入BNB48俱乐部也是个人行为，同样不会出自币安的要求或授意。
+
+### 支持俱乐部
+
+BNB48俱乐部目前是非营利~~组织~~
+
+俱乐部运营的主要成本有：
+
+1. 域名费用。
+1. 大陆服务器费用。
+1. 海外服务器费用。
+1. 周边产品设计制作成本。
+
+此外还有参与者的人员时间成本。
+
+俱乐部目前接受捐赠的唯一途径是`0xa1F28696D9f0Aa80aF051ebd8780b4fB13E3290e`，接受ETH以及各种ERC20资产，首选BNB。
+
+俱乐部感谢每一笔捐赠，但限于各方面的条件暂时无法承诺公开每一笔支出的细节。
+
+建议您在可欣然接受的程度内酌情捐赠。
+
+为俱乐部发行的[Koge48积分](./koge48)引入/设计更多使用场景，或是对俱乐部的[Binance Chain节点](./binancenode)予以宣传乃至投票，也都是对俱乐部非常有利的支持。
+
 ### 会籍身份
-俱乐部会籍身份即为俱乐部Telegram主群成员资格，俱乐部Telegram群成员资格即为俱乐部会籍身份。
 
 Telegram主群为私密群，持仓[Koge48](http://bnb48.club/koge48)达标可通过[俱乐部管家机器人](https://t.me/bnb48_bot)自助入群。
 
-也可以提交入会申请，等待审批。
+BNB持仓者也可以通过页面左侧链接提交入会申请，等待审批。
 
-如果您暂未被批准入群，可以先加入俱乐部公开群。
+包括但不限于 1、俱乐部急需技能人才 2、美少女 3、对俱乐部予以大力支持 等情况可特别入会（申请者请发email详细说明）。
 
-根据发言所体现出的投资理念、价值观，俱乐部成员有可能不定期淘汰。
+无论您是否俱乐部正式会员，都可以加入俱乐部公开群参与日常讨论。
 
-### 商务合作
-business@bnb48.club
+会籍身份并非永久有效，根据活动、发言所体现出的价值观差异，俱乐部成员有可能不定期淘汰。
+
 
 ### 线上社区
-
-俱乐部的主要线上活动场所为各社交媒体，Telegram主群仅对会员开放，其他预备群或频道则为公开。
 
 #### Telegram
 [俱乐部公告频道](https://t.me/bnb48club_publish)
@@ -55,12 +104,18 @@ business@bnb48.club
 
 [BNB48 Club](https://www.twitter.com/bnb48club/)
 
+#### 微博
+[![BNB48Club](https://tvax4.sinaimg.cn/crop.0.0.1080.1080.180/005zmCdEly8fys4spi0dej30u00u075l.jpg "BNB48Club")](https://weibo.com/bnb48sirian)
+
 #### 微信公众号 
 ![image](http://bnb48.club/assets/qrcode_for_bnb48_mp.jpg)
 
 所有未在本网站书面形式提及却以BNB48名义进行的组织、群聊、活动均有可能系假冒，请注意识别风险。
 
 <a target="_blank" href="http://bnb48club.mikecrm.com/kUxnAAX" style="position:fixed;z-index:999;left:5px;bottom: 20px;display: inline-block;width: 30px;border-radius: 5px;color:white;font-size:14px;line-height:17px;background: #2476CE;box-shadow: 0 0 5px #666;word-wrap: break-word;padding: 10px 6px;border: 2px solid white;">申请加入</a>
+
+### 商务合作
+business@bnb48.club
 
 <!--
 ![image](http://bnb48.club/assets/qrcode_for_bgqkl.jpg)
