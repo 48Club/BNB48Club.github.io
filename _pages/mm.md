@@ -3,10 +3,6 @@ permalink: /mm
 title: "BNB48 Club® Girls"
 excerpt: ""
 
-gallery-congcong:
-  - url: http://wx4.sinaimg.cn/mw690/005zmCdEgy1ftsxcfs42wj30nq0qqdlb.jpg
-    image_path: http://wx4.sinaimg.cn/mw690/005zmCdEgy1ftsxcfs42wj30nq0qqdlb.jpg
-    title: ""
 gallery-miaomiao:
   - url: http://wx4.sinaimg.cn/mw690/005zmCdEgy1fsndpzhzbvj30qp0zk42s.jpg
     image_path: http://wx4.sinaimg.cn/mw690/005zmCdEgy1fsndpzhzbvj30qp0zk42s.jpg
@@ -24,7 +20,6 @@ gallery-jiajia:
     title: "Jiajia Guitar"
 ---
 
-{% include gallery id="gallery-congcong" caption="Cong" %}
 {% include gallery id="gallery-jiajia" caption="Jiajia" %}
 {% include gallery id="gallery-zhaozhao" caption="Zhao" %}
 {% include gallery id="gallery-miaomiao" caption="SIJI" %}
