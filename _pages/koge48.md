@@ -21,15 +21,15 @@ Koge48积分不具有任何价值。
 ## 钱包
 1. 第一阶段 Telegram钱包
 
-每个Telegram账号即为Koge48钱包，每个Telegram账号仅对应一个Koge48钱包。
+    每个Telegram账号即为Koge48钱包，每个Telegram账号仅对应一个Koge48钱包。
 
-可以且仅可以通过机器人提供的命令进行查询余额、转账等操作。
+    可以且仅可以通过机器人提供的命令进行查询余额、转账等操作。
 
-如果你的Telegram账号丢失，Koge48钱包也就丢失。
+    如果你的Telegram账号丢失，Koge48钱包也就丢失。
 
 2. 第二阶段 Binance Chain钱包
 
-完成主网映射之后，Koge成为Binance Chain链上资产，请使用Binance Chain的钱包。
+    完成主网映射之后，Koge成为Binance Chain链上资产，请使用Binance Chain的钱包。
 
 ## Koge的获得
 通过募捐奖励/聊天挖矿/BNB空投/赌场等途径，俱乐部有可能增量发行Koge。除此之外不以任何形式增发Koge。
