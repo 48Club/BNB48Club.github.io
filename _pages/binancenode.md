@@ -23,7 +23,7 @@ BNB48俱乐部是BNB生态的积极参与者，为支持Binance Chain主网，�
 2. 并拥有记账资格后
 3. 48Node基金盈余足够支付发行费用
 
-之后，会停止募集、冻结所有Koge并在Binance Chain主网上1：1发行Koge，然后俱乐部会按照Koge持有者预先登记的Binance Chain主网钱包地址派发链上Koge。
+之后，会停止募集、冻结所有Koge并在Binance Chain主网上1：1发行Koge，然后俱乐部会按照Koge持有者预先登记的Binance Chain主网钱包地址派发链上Koge。募捐获得的荣誉积分支票如尚未兑现，届时会一并转入链上钱包地址。
 
 # 财务披露
 - 募捐所得将在俱乐部主页上持续披露明细。记为收入。
