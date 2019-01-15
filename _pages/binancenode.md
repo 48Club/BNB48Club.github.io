@@ -51,12 +51,12 @@ BNB48的主网节点计划遇到以下情形时会宣布终止：
 BNB地址 `0xAbf01e7240454B37D6906CF6A85872D6d5936DB3`
 
 建议的捐赠流程为:
-1. 发送email到donate@bnb48.club，描述您计划捐赠BNB的转出钱包地址和打算捐赠的金额，并提供您的Telegram账号ID。
+1. 填写[表单](http://bnb48club.mikecrm.com/c3iNLGn)(推荐)或发送email到donate@bnb48.club，描述您计划捐赠BNB的转出钱包地址和打算捐赠的金额，并提供您的Telegram账号。
 2. 进行募捐转账操作。
 
 如认为必要，可以于交易中附加必要的信息。
 
-收到参与本节点项目的捐赠后俱乐部会通过email发放荣誉积分Koge奖励支票。
+收到参与本节点项目的捐赠后俱乐部会通过email发放荣誉积分Koge奖励支票。可以通过俱乐部小秘书机器人查询。
 
 支票并非完全匿名，而是带有捐赠email中列明的Telegram账号ID。
 
