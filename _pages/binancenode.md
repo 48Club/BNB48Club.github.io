@@ -2,7 +2,7 @@
 permalink: /binancenode
 excerpt: ""
 title: "Binance Chain节点"
-modified: 2018-11-22T18:48:00+08:00
+modified: 2019-01-16T14:09:00+08:00
 ---
 # 募捐简介
 Binance Chain，也叫币安链。是币安推出的去中心化交易主链。
@@ -51,17 +51,19 @@ BNB48的主网节点计划遇到以下情形时会宣布终止：
 BNB地址 `0xAbf01e7240454B37D6906CF6A85872D6d5936DB3`
 
 建议的捐赠流程为:
-1. 填写[表单](http://bnb48club.mikecrm.com/c3iNLGn)(推荐)或发送email到donate@bnb48.club，描述您计划捐赠BNB的转出钱包地址和打算捐赠的金额，并提供您的Telegram账号。
+1. 填写[表单](http://bnb48club.mikecrm.com/c3iNLGn)(访问密码请至俱乐部群咨询获得)，描述您计划捐赠BNB的转出钱包地址和打算捐赠的金额，并提供您的Telegram账号。
 2. 进行募捐转账操作。
 
 如认为必要，可以于交易中附加必要的信息。
 
-收到参与本节点项目的捐赠后俱乐部会通过email发放荣誉积分Koge奖励支票。可以通过俱乐部小秘书机器人查询。
+收到参与本节点项目的捐赠后俱乐部会通过Telegram发放荣誉积分Koge奖励。可以通过俱乐部小秘书机器人查询。
 
-支票并非完全匿名，而是带有捐赠email中列明的Telegram账号ID。
+奖励并非完全匿名，携带有列明的Telegram账号ID。
 
-支票可以在Koge进行链上映射之前由任何人兑换，请注意保存。
+奖励可以在Koge进行链上映射之前由任何人兑换，请注意保存。
 
-如不兑换，会在链上映射时自动分配给捐赠email中列明的Telegram账号ID。
+如不兑换，会在链上映射时自动分配给表单中列明的Telegram账号ID。
 
 \*请特别注意，本项目与BNB48俱乐部日常运营各自独立接受捐赠，捐赠地址不同，务必加以区别。
+
+咨询请至[Telegram群](https://t.me/bnb48club_cn)
