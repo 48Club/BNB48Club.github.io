@@ -8,8 +8,9 @@
     <script src="{{ script_path }}"></script>
   {% endfor %}
 {% else %}
+  <script src="{{ '/assets/js/main.min.js' | relative_url }}"></script>
+  <script src="{{ '/assets/js/all.js' | relative_url }}"></script>
 {% endif %}
-
 {% if site.search == true or page.layout == "search" %}
   {%- assign search_provider = site.search_provider | default: "lunr" -%}
   {%- case search_provider -%}
