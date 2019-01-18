@@ -5,7 +5,7 @@ title: "Koge48"
 modified: 2019-01-18T14:41:00+08:00
 ---
 ## 简介
-Koge48积分，也简称Koge48或Koge，是BNB48俱乐部中心化管理的积分系统，暂时通过俱乐部管家机器人[@bnb48_bot](https://t.me/bnb48_bot)访问(称为第一阶段)。管家机器人的源代码在Github开源，请查看俱乐部的Github页面。
+Koge48积分，也简称Koge48或Koge，是BNB48俱乐部管理/发行的积分，暂时通过俱乐部管家机器人[@bnb48_bot](https://t.me/bnb48_bot)访问(称为第一阶段)。管家机器人的源代码在Github开源，请查看俱乐部的Github页面。
 
 待BNB48俱乐部运营的主网记账节点上线后，会择机映射为Binance Chain主网token(称为第二阶段)。
 
