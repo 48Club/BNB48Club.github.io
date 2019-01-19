@@ -1,14 +1,16 @@
 main:
     - title: BNB
       url: /bnb
-    - title: 48纪事
-      url: /year-archive
-    - title: 48MM
-      url: /48mm
     - title: 48节点
       url: /48node
+    - title: 48MM
+      url: /48mm
     - title: 48开源
       url: /48opensource
+    - title: 48财务
+      url: /48finance
+    - title: 48纪事
+      url: /year-archive
     - title: Koge48
       url: /koge48
     - title: 关于48
