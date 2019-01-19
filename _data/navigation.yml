@@ -4,10 +4,12 @@ main:
     - title: 48纪事
       url: /year-archive
     - title: 48MM
-      url: /mm
+      url: /48mm
     - title: 48节点
       url: /48node
+    - title: 48开源
+      url: /48opensource
     - title: Koge48
       url: /koge48
     - title: 关于48
-      url: /about
+      url: /about48
