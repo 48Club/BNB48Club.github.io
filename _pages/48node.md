@@ -13,6 +13,5 @@ Binance Chain，也叫币安链。是币安推出的去中心化交易主链。
 与此同时，处于技术交流、研究、筹备的目的，BNB48也会运营一些其他区块链的基础设施。
 
 # EOS Jungle测试网节点
-API Endpoint `http://jungle.eos.bnb48.club:8888`
-
-节点名称 `eosuser12345`
+API Endpoint [http://jungle.eos.bnb48.club:8888]()
+节点名称 [eosuser12345](https://jungle.eospark.com/bp/eosuser12345)
