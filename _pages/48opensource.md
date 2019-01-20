@@ -13,6 +13,9 @@ modified: 2019-01-05T04:04:37+08:00
 
 [Binance-History-Helper](https://github.com/BNB48Club/Binance-History-Helper) BNB48搜集的社区网友开发的浏览器插件，用于在币安交易历史页面显示交易时法币估值。
 
+[BNB48 Stickers](https://t.me/addstickers/BNB48Club) BNB48成员以俱乐部名义署名创作的贴纸
+
+
 #### GitHub
 
 [BNB48 Club](https://github.com/BNB48Club)
