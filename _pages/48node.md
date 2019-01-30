@@ -1,16 +1,12 @@
 ---
 permalink: /48node
-excerpt: ""
+excerpt: "BNB48为区块链基础设施运营所作的努力"
 title: "48Node"
 modified: 2019-01-16T14:09:00+08:00
 ---
-Binance Chain，也叫币安链。是币安推出的去中心化交易主链。
-
-在Binance Chain上，节点负责对交易请求进行撮合，GAS费用以BNB支付。
-
-BNB48俱乐部是非盈利机构，旨在丰富、活跃、回馈BNB社区，特别是去中心化的Binance Chain社区。
-
-俱乐部会参与包括但可能不限于如下列出的社区活动(与此同时，处于技术交流、研究、筹备的目的，BNB48也会运营一些其他区块链的基础设施)。
+BNB48俱乐部旨在丰富、活跃、回馈BNB社区，特别是去中心化的Binance Chain社区。
+Binance Chain也叫币安链,是币安推出的去中心化交易链。
+俱乐部会积极参与币安链的基础设施，包括但可能不限于如下列出的社区活动。
 
 # Binance Chain
 ## 提供Binance Chain基础设施
@@ -36,6 +32,8 @@ BNB48俱乐部是非盈利机构，旨在丰富、活跃、回馈BNB社区，特
 ## 上线交易对
 发行Koge之后，俱乐部会择机在链上申请开设Koge/BNB交易对。
 
+
+出于技术交流、研究、筹备的目的，BNB48也会运营一些其他链的基础设施。
 # EOS
 ## Jungle测试网节点
 API Endpoint [http://jungle.eos.bnb48.club:8888]()
