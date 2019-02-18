@@ -22,11 +22,6 @@ Koge48积分，也简称Koge48或Koge，是BNB48俱乐部管理/发行的积分�
 
 Koge出块是一个泊松随机过程。无论多少个群同时聊天挖矿，不会影响出块的随机过程。即在多个群分别发言，与这些发言都在某一个群进行的出块几率没有差别。
 
-#### 一些聊天挖矿群
-
-- [48移民群](https://t.me/joinchat/GRaQmlAedWNAdslCxOzKog)
-- [48翻墙群](https://t.me/joinchat/GRaQmkzYU3rHwXeNWTSV_w)
-
 \*如果想在你的群里开启聊天挖Koge48，只需要将@bnb48_bot机器人加入你的群即可。
 
 ### 持有BNB空投Koge48
