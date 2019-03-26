@@ -56,15 +56,9 @@ BNB48是BNB社区成员，而币安是BNB的发行者，是BNB社区最大、最
 
 [BNB48 Club](https://github.com/BNB48Club)
 
-#### LinkedIn
+#### Medium
 
-[BNB48](https://www.linkedin.com/company/bnb48)
-
-#### Facebook
-
-[BNB48 Page](https://www.facebook.com/bnb48/)
-
-[BNB48 Group](https://www.facebook.com/groups/280025322599842/)
+[BNB48Club](https://medium.com/@bnb48club)
 
 #### Twitter
 
