@@ -14,14 +14,12 @@ Binance Chain也叫币安链,是币安推出的去中心化交易链。
 - 运营主网全节点
 - 积极进行生态开发(钱包/浏览器/Dapp/SDK/工具等)
 
-BNB48 Club Binance Chain Node
-
-TestNet
+BNB48Club@TestNet
 ```
 node.testnet.bnc.bnb48.club:27147 (RPC)
 node.testnet.bnc.bnb48.club:27146 (P2P)
 ```
-Production
+BNB48Club@Production
 ```
 node.bnc.bnb48.club:27147 (RPC)
 node.bnc.bnb48.club:27146 (P2P)
