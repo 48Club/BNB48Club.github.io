@@ -14,6 +14,19 @@ Binance Chain也叫币安链,是币安推出的去中心化交易链。
 - 运营主网全节点
 - 积极进行生态开发(钱包/浏览器/Dapp/SDK/工具等)
 
+BNB48 Club Binance Chain Node
+
+TestNet
+```
+node.testnet.bnc.bnb48.club:27147 (RPC)
+node.testnet.bnc.bnb48.club:27146 (P2P)
+```
+Production
+```
+node.bnc.bnb48.club:27147 (RPC)
+node.bnc.bnb48.club:27146 (P2P)
+```
+
 ## 竞选Validator
 全节点需要获取足额票选方可以获得验证资格，进而获得手续费收入。
 
@@ -31,5 +44,3 @@ Binance Chain也叫币安链,是币安推出的去中心化交易链。
 
 ## 上线交易对
 发行Koge之后，俱乐部会择机在链上申请开设Koge/BNB交易对。
-
-
