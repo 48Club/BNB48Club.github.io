@@ -1,7 +1,7 @@
 ---
 permalink: /48node
 excerpt: "BNB48为区块链基础设施运营所作的努力"
-title: "48区块链"
+title: "48区块链基础设施"
 modified: 2019-01-16T14:09:00+08:00
 ---
 BNB48俱乐部旨在丰富、活跃、回馈BNB社区，特别是去中心化的Binance Chain社区。
