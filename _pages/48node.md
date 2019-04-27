@@ -1,6 +1,6 @@
 ---
 permalink: /48node
-excerpt: "BNB48为区块链基础设施运营所作的努力"
+excerpt: "BNB48为BNB社区与链上基础设施运营所作的努力"
 title: "48区块链基础设施"
 modified: 2019-01-16T14:09:00+08:00
 ---
