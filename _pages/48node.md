@@ -17,12 +17,15 @@ Binance Chain也叫币安链,是币安推出的去中心化交易链。
 BNB48Club@TestNet
 ```
 node.testnet.bnc.bnb48.club:26657 (RPC)
-node.testnet.bnc.bnb48.club:26656 (P2P)
 ```
-BNB48Club@Production
+
+BNB48Club@MainNet
 ```
 node.bnc.bnb48.club:27147 (RPC)
-node.bnc.bnb48.club:27146 (P2P)
+```
+BNB48YOYO@MainNet
+```
+86.95.3.217:27147 (RPC)
 ```
 
 ## 竞选Validator
