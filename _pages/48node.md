@@ -29,7 +29,7 @@ BNB48YOYO@MainNet
 ```
 BNB48YOYO2@MainNet
 ```
-52.183.22.92:27147 (RPC)
+bnb48yoyo2.westus2.cloudapp.azure.com:27147 (RPC)
 ```
 
 ## 竞选Validator
