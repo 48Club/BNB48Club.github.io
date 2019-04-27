@@ -1,7 +1,7 @@
 ---
 permalink: /48node
 excerpt: "BNB48为区块链基础设施运营所作的努力"
-title: "48Node"
+title: "48区块链"
 modified: 2019-01-16T14:09:00+08:00
 ---
 BNB48俱乐部旨在丰富、活跃、回馈BNB社区，特别是去中心化的Binance Chain社区。
@@ -16,8 +16,8 @@ Binance Chain也叫币安链,是币安推出的去中心化交易链。
 
 BNB48Club@TestNet
 ```
-node.testnet.bnc.bnb48.club:27147 (RPC)
-node.testnet.bnc.bnb48.club:27146 (P2P)
+node.testnet.bnc.bnb48.club:26657 (RPC)
+node.testnet.bnc.bnb48.club:26656 (P2P)
 ```
 BNB48Club@Production
 ```
