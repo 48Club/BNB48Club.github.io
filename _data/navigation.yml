@@ -1,7 +1,7 @@
 main:
     - title: BNB
       url: /bnb
-    - title: 48节点
+    - title: 48链上
       url: /48node
     - title: 48财务
       url: /48finance
