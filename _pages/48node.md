@@ -16,19 +16,27 @@ Binance Chain也叫币安链,是币安推出的去中心化交易链。
 
 BNB48Club@TestNet
 ```
-node.testnet.bnc.bnb48.club:26657 (RPC)
+moniker: BNB48Club
+chain-id: Binance-Chain-Nile
+id: 434ccfb3996f03273020cd1a9e0046f99808be75
 ```
 
 BNB48Club@MainNet
 ```
-node.bnc.bnb48.club:27147 (RPC)
+moniker: BNB48Club
+chain-id: Binance-Chain-Tigris
+id: 8132c4d0e3187754f830e033d01062fe2febb022
 ```
 BNB48YOYO@MainNet
 ```
+moniker: BNB48YoYo
+chain-id: Binance-Chain-Tigris
 86.95.3.217:27147 (RPC)
 ```
 BNB48YOYO2@MainNet
 ```
+moniker: BNB48YoYo2
+chain-id: Binance-Chain-Tigris
 bnb48yoyo2.westus2.cloudapp.azure.com:27147 (RPC)
 ```
 
