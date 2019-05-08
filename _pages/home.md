@@ -2,7 +2,7 @@
 layout: splash
 permalink: /
 excerpt: ""
-title: "硬核BNB粉丝俱乐部"
+title: "真正硬核的BNB粉丝俱乐部"
 modified: 2019-01-05T04:04:37+08:00
 header:
   overlay_color: "#5e616c"
