@@ -2,7 +2,7 @@
 layout: splash
 permalink: /
 excerpt: ""
-title: "真正硬核的BNB粉丝俱乐部"
+title: "真正硬核的BNB投资者俱乐部"
 modified: 2019-01-05T04:04:37+08:00
 header:
   overlay_color: "#5e616c"
@@ -12,7 +12,7 @@ header:
 ---
 
 ### BNB48是什么
-BNB48 Club®是一个硬核的BNB粉丝俱乐部。
+BNB48 Club®是一个硬核的BNB投资者俱乐部。
 
 BNB48的名称灵感来自源起日本发扬至中国的AKB48、SNH48、CKG48、BEJ48等少女团体组合。
 
