@@ -46,7 +46,7 @@ chain-id: Binance-Chain-Tigris
 *若在保证俱乐部节点当选验证节点之外仍有冗余投票权，会酌情投票给BNB社区中活跃、有贡献的其他节点。*
 
 ## 发行Token
-在以下条件均满足之后，不再颁发新的Koge并进行总量快照，在Binance Chain上使用Token发行功能按并快照得到的总量发行Koge Token，并在Binance Chain主网上1：1映射Koge。
+在以下条件均满足之后，不再颁发新的[Koge](./koge48)并进行总量快照，在Binance Chain上使用Token发行功能按并快照得到的总量发行Koge Token，并在Binance Chain主网上1：1映射Koge。
   1. BNB48成功运营Binance Chain主网全节点(FullNode)
   2. 俱乐部运营的全节点获得验证资格(Validator)
   3. 俱乐部运营资金盈余足够支付新Token发行费用
