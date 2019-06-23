@@ -1,11 +1,11 @@
 main:
     - title: BNB
       url: /bnb
+    - title: 48治理
+      url: /koge48
     - title: 48链上
       url: /48node
     - title: 48财务
       url: /48finance
     - title: 48纪事
       url: /year-archive
-    - title: 48治理
-      url: /koge48
